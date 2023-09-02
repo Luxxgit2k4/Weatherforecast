@@ -11,7 +11,7 @@ RECIPIENT_EMAIL = "recipient@gmail.com"
 
 
 def send_weather_notification():
-    city = "Chennai"
+    city = "city"
     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid=yourapikey&units=metric"
     
     # Rest of your code for fetching weather data and creating email content
