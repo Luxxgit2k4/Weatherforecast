@@ -3,8 +3,7 @@ This is a simple weather forecast project built with termux in mobile which send
 
 # Introduction: 
 
-You can change the `youremail@.com`, `yourpassword`, `recipient@gmail.com`, `city`   in the code to your respective email address, password and recipient email. 
-
+You can change the `youremail@.com`, `yourpassword`, `recipient@gmail.com`, `city`   in the code to your respective email address, password, recipient email and city.
 
 # Installation:
 
